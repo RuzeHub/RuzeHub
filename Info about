@@ -1,0 +1,29 @@
+🌟 Project features:
+
+ Automatic DATABASE initialization - creates the users.db file at the first startup
+
+ Duplicate protection - UNIQUE constraint for logins
+
+ Administrative access - a special --d command to view the data
+
+ Secure Queries - using parameterized queries to protect against SQL injections
+
+⚠️ Important notes:
+
+ For real-world use, you should add password hashing.
+
+ It is recommended to restrict access to the users.db file
+
+ The --d command must be protected by additional authentication.
+
+🚀 Possible improvements:
+
+ Add a user role system
+
+ Implement logging of actions
+
+ Add the ability to change your password
+
+ Create a graphical interface
+
+- The project was developed by Ruze (@achcore), a novice developer from Belarus. Contributions and improvement ideas are welcome!
