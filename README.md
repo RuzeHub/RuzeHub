@@ -1,4 +1,4 @@
-                                                                  🚀 Ruze | Starter Coder from Belarus
+                                                                  🚀 Ruze | Starter Coder from Russia
                                                                   🔗 Sharing code with the world!
                                                                   📢 Discord: Programm.Error
                                                                   📩 Telegram: @achcore
